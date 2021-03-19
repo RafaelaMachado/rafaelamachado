@@ -1,6 +1,6 @@
 # Rafaéla Machado
 [![LinkedIn](https://img.shields.io/badge/-rafaelamachado-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mmrafaela/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hmmrafaela)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hmmrafaela)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=+5547997390128)](https://web.whatsapp.com/send?phone=+5547997390128) 
 [![Gmail](https://img.shields.io/badge/-mmachado.rafaela%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:mmachado.rafaela@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rafaelamachado.visitor-badge)
