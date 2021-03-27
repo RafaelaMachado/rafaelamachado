@@ -13,6 +13,8 @@ I'm a Software engineer who loves creating and testing new ways of getting the j
 - I love Ruby and Project Managment! :heart_eyes:
 - I’m currently working fully remote for a company from Joinville.
 - I'm currently learning lots of things about Ruby, Go and Project Managment.
+- I´m Admin and organizer at Ruby joinville community ([site](http://ruby.joinville.br/) | [meetup](https://www.meetup.com/pt-BR/Ruby-Joinville/?_locale=pt-BR) | [instagram](https://www.instagram.com/ruby_jlle/)). 
+
 
 Feel free to get in touch! :blush:
 
@@ -21,5 +23,5 @@ Feel free to get in touch! :blush:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rafaelamachado&show_icons=true&theme=merko&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamachado&hide=css,java,html&theme=merko">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelamachado&theme=merko">
 </p>
