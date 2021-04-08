@@ -12,8 +12,9 @@ I'm a Software engineer who loves creating and testing new ways of getting the j
 
 - I love Ruby and Project Managment! :heart_eyes:
 - I’m currently working fully remote for a company from Joinville.
-- I'm currently learning lots of things about Ruby, Go and Project Managment.
-- I´m Admin and organizer at Ruby joinville community ([site](http://ruby.joinville.br/) | [meetup](https://www.meetup.com/pt-BR/Ruby-Joinville/?_locale=pt-BR) | [instagram](https://www.instagram.com/ruby_jlle/)). 
+- I’m currently learning lots of things about Ruby, Go and Project Managment.
+- I’m a contributor, organizer and  maintainer of Rails Girls and Rails Girls Guides PT-BR
+- I’m Admin and organizer at Ruby joinville community ([site](http://ruby.joinville.br/) | [meetup](https://www.meetup.com/pt-BR/Ruby-Joinville/?_locale=pt-BR) | [instagram](https://www.instagram.com/ruby_jlle/)). 
 
 
 Feel free to get in touch! :blush:
