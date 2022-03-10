@@ -3,7 +3,6 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hmmrafaela)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=+5547997390128)](https://web.whatsapp.com/send?phone=+5547997390128) 
 [![Gmail](https://img.shields.io/badge/-mmachado.rafaela%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:mmachado.rafaela@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rafaelamachado.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/rafaelamachado?style=social)
 
 ## Hello! 👋
